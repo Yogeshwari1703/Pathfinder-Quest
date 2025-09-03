@@ -65,11 +65,6 @@ This makes it easy to compare how each algorithm explores the grid and finds the
   * Uses both **actual cost (g)** and **heuristic (h)**.
   * Guarantees the shortest path if the heuristic is admissible.
 
----
-
-## 🖼️ Demo Preview
-
-*(Add a GIF or screenshot here once you record it)*
 
 ---
 
