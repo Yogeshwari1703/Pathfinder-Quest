@@ -31,7 +31,7 @@ This makes it easy to compare how each algorithm explores the grid and finds the
 
 ## ⚙️ Installation
 1. Clone the repository:
-   ```bash
+  ````
    git clone https://github.com/yourusername/pathfinder-quest.git
 ````
 
